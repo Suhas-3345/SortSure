@@ -1,0 +1,17 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime logs and collected data
+pi/log/
+pi/dataset/
+
+# Local model files (add only if you have permission and GitHub file-size limits allow)
+pi/model.tflite
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
